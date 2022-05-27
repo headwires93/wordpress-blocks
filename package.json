@@ -1,0 +1,35 @@
+{
+  "name": "custom-blocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/preset-env": "^7.13.15",
+    "@babel/preset-react": "^7.13.13",
+    "@wordpress/scripts": "14.1.1",
+    "babel-loader": "^8.2.2",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "css-loader": "^5.2.4",
+    "mini-css-extract-plugin": "^1.5.0",
+    "postcss": "^8.2.13",
+    "postcss-cli": "^8.3.1",
+    "postcss-loader": "^4.2.0",
+    "sass-loader": "^10.1.1",
+    "style-loader": "^2.0.0",
+    "webpack-extraneous-file-cleanup-plugin": "^2.0.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.1.0",
+    "extract-loader": "^5.1.0",
+    "file-loader": "^6.2.0",
+    "node-sass": "^4.14.1"
+  }
+}
