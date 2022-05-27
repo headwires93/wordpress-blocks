@@ -1,6 +1,6 @@
-#Custom Wordpress Blocks
+# Custom Wordpress Blocks
 
-##Wordpress blocks made for Wordpress 5 Block Editor
+## Wordpress blocks made for Wordpress 5 Block Editor
 
 - Field selector
 - Card builder
