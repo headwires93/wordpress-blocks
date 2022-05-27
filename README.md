@@ -6,4 +6,4 @@
 - Card builder
 - Featured or latest review from a custom post type
 - Page selector
-- Custosm post type list
+- Custom post type list
